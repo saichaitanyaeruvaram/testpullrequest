@@ -6,5 +6,12 @@
 #testing pull request
 * It is working
 
-#Added another change
-* this is second one
+#added newfile
+
+#added newbranch
+<<<<<<< HEAD
+
+#Added branch3 for running test2
+=======
+* first commit from origin
+>>>>>>> d4cf70a37095e4026c38c0ca0c21e743af89291b
